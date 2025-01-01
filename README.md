@@ -3,9 +3,9 @@ Day 25 Challenge - it was between Project 3 and 4 which is why I called it 3.5 :
 
 ## About the Project
 
-Description
+A brain training game that challenges players to either win or lose in a game of rock-paper-scissors.
 
-This project covers ....
+This project is a review of all the material we have covered till Day 25.
 
 ## Diagrams
 
